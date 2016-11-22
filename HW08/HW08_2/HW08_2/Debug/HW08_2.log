@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\mckenna\documents\recursiontutorials\ex8_2\source.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\mckenna\documents\recursiontutorials\ex8_2\source.cpp(65): warning C4018: '<': signed/unsigned mismatch
+  HW08_2.vcxproj -> C:\Users\Mckenna\Desktop\HW08\HW08_2\Debug\HW08_2.exe
+  HW08_2.vcxproj -> C:\Users\Mckenna\Desktop\HW08\HW08_2\Debug\HW08_2.pdb (Full PDB)
